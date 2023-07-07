@@ -2,6 +2,10 @@
 
 This repo contains all the genres and sub-genres for Wavlake's music catalog. PR's welcome.
 
+The starting point for these categories originated from [Music Genres List](https://www.musicgenreslist.com/).
+
+# Genres
+
 ### Alternative
 
 - Alternative Rock
