@@ -22,8 +22,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Shoegaze
 - Steampunk
 
-### Anime
-
 ### Blues
 
 - Acoustic Blues
@@ -79,7 +77,7 @@ The starting point for these categories originated from [Music Genres List](http
 - Traditional Country
 - Urban Cowboy
 
-### Dance / EMD
+### Dance/EDM
 
 - Breakbeat
 - Dubstep
@@ -93,8 +91,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Jungle/Drum’n'bass
 - Techno
 - Trance
-
-### Disney
 
 ### Easy Listening
 
@@ -112,16 +108,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Electronic Rock
 - IDM/Experimental
 - Industrial
-
-### Enka
-
-### French Pop
-
-### German Folk
-
-### German Pop
-
-### Fitness & Workout
 
 ### Hip-Hop/Rap
 
@@ -156,10 +142,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Holiday: Other
 - Thanksgiving
 
-### Indie Pop
-
-### Industrial
-
 ### Inspirational – Christian & Gospel
 
 - CCM
@@ -179,13 +161,7 @@ The starting point for these categories originated from [Music Genres List](http
 ### Instrumental
 
 - March (Marching Band)
-
-### J-Pop
-
-- J-Rock
-- J-Synth
-- J-Ska
-- J-Punk
+- Karaoke
 
 ### Jazz
 
@@ -205,12 +181,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Ragtime
 - Smooth Jazz
 - Trad Jazz
-
-### K-Pop
-
-### Karaoke
-
-### Kayokyoku
 
 ### Latino
 
@@ -234,8 +204,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Relaxation
 - Travel
 
-### Opera
-
 ### Pop
 
 - Adult Contemporary
@@ -243,6 +211,12 @@ The starting point for these categories originated from [Music Genres List](http
 - Pop/Rock
 - Soft Rock
 - Teen Pop
+- Indie Pop
+- Anime
+- K-Pop
+- J-Pop
+- French Pop
+- German Pop
 
 ### R&B/Soul
 
@@ -293,6 +267,7 @@ The starting point for these categories originated from [Music Genres List](http
 - Folk-Rock
 - New Acoustic
 - Traditional Folk
+- German Folk
 
 ### Soundtrack
 
@@ -321,3 +296,5 @@ The starting point for these categories originated from [Music Genres List](http
 - Traditional Pop
 - Vocal Jazz
 - Vocal Pop
+- Enka
+- Sea Shanty
