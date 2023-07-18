@@ -14,7 +14,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Goth Rock
 - Grunge
 - Hardcore Punk
-- Hard Rock
 - Indie Rock
 - New Wave
 - Progressive Rock
@@ -188,7 +187,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Baladas y Boleros
 - Brazilian
 - Contemporary Latin
-- Latin Jazz
 - Pop Latino
 - Raíces
 - Reggaeton y Hip-Hop
@@ -257,7 +255,6 @@ The starting point for these categories originated from [Music Genres List](http
 - Singer/Songwriter
 - Southern Rock
 - Surf
-- Tex-Mex
 
 ### Singer/Songwriter
 
