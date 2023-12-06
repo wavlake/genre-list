@@ -6,6 +6,53 @@ The starting point for these categories originated from [Music Genres List](http
 
 # Genres
 
+### Africa
+
+- African Heavy Metal
+- African Hip Hop
+- Afro-Beat
+- Afro-House
+- Afro-Pop
+- Apala/Akpala
+- Benga
+- Bikutsi
+- Bongo Flava
+- Cape Jazz
+- Chimurenga
+- Coupé-Décalé
+- Fuji Music
+- Genge
+- Gnawa
+- Highlife
+- Hiplife
+- Isicathamiya
+- Jit
+- Jùjú
+- Kapuka
+- Kizomba
+- Kuduro
+- Kwaito
+- Kwela
+- Lingala
+- Makossa
+- Maloya
+- Marrabenta
+- Mbalax
+- Mbaqanga
+- Mbube
+- Morna
+- Museve
+- Negro Spiritual
+- Palm-Wine
+- Raï
+- Sakara
+- Sega
+- Seggae
+- Semba
+- Soukous
+- Taarab
+- Zouglou
+
 ### Alternative
 
 - Alternative Rock
@@ -21,6 +68,26 @@ The starting point for these categories originated from [Music Genres List](http
 - Shoegaze
 - Steampunk
 
+### Asia
+
+- Anison
+- Baithak Gana
+- C-Pop
+- CityPop
+- Cantopop
+- Enka
+- Hong Kong English Pop
+- Fann At-Tanbura
+- Fijiri
+- Khaliji
+- Kayōkyoku
+- Liwa
+- Mandopop
+- Onkyokei
+- Taiwanese Pop
+- Thai Pop
+- Sawt
+
 ### Blues
 
 - Acoustic Blues
@@ -30,6 +97,15 @@ The starting point for these categories originated from [Music Genres List](http
 - Country Blues
 - Delta Blues
 - Electric Blues
+
+### Caribbean
+
+- Chutney
+- Chutney Soca
+- Compas
+- Mambo
+- Merengue
+- Méringue
 
 ### Children’s Music
 
@@ -295,3 +371,40 @@ The starting point for these categories originated from [Music Genres List](http
 - Vocal Pop
 - Enka
 - Sea Shanty
+
+### World
+
+- Cajun
+- Calypso
+- Carnatic (Karnataka Sanghetha)
+- Celtic
+- Celtic Folk
+- Contemporary Celtic
+- Coupé-décalé – Congo
+- Dangdut
+- Drinking Songs
+- Drone
+- Klezmer
+- Mbalax – Senegal
+- Polka
+- Soca
+- Baila
+- Bhangra
+- Bhojpuri
+- Dangdut
+- Filmi
+- Indian Pop
+- Hindustani
+- Indian Ghazal
+- Lavani
+- Luk Thung
+- Luk Krung
+- Manila Sound
+- Morlam
+- Pinoy Pop
+- Pop Sunda
+- Ragini
+- Thai Pop
+- Traditional Celtic
+- Worldbeat
+- Zydeco
